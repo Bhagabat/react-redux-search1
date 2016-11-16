@@ -1,4 +1,4 @@
-Redux Tutorial : Friend list demo
+React redux demo
 =====================
 
 Demo application for keyword search
